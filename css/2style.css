@@ -1,0 +1,40 @@
+*{box-sizing: border-box;}
+
+
+.container{
+margin: auto;
+width: 1200 ;
+justify-content: center;
+display: flex;
+}
+
+.menu li{display: inline-block; padding: 10px;  }
+.hh , .pp{
+ padding: 30px;   
+}
+
+.menu{
+display: inline-block;
+}
+
+.logo{
+    vertical-align: middle;
+    margin-right: 400px;
+    margin-left: 10px;
+}
+
+
+.card{
+padding-left: 150px;
+padding-right: 20px;
+display: inline-block;
+width: 516;
+height: 249;
+box-sizing: border-box;
+margin-left: 100px;
+}
+
+.h1 , h3 , .p{color: yellow;}
+
+
+
